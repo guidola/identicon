@@ -1,4 +1,4 @@
-package com.davidhampgonsalves.identicon;
+package identicon;
 
 import java.awt.image.WritableRaster;
 import java.awt.image.BufferedImage;
