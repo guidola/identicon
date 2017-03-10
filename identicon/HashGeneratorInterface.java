@@ -1,4 +1,4 @@
-package com.davidhampgonsalves.identicon;
+package identicon;
 
 public interface HashGeneratorInterface {
 	byte[] generate(String userName);
